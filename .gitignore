@@ -1,0 +1,10 @@
+﻿#git ignore file
+
+*.[oa]
+*.d
+*.crf
+*.bak
+*.lst
+*.map
+*.dep
+*.tst
